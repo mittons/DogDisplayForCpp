@@ -160,3 +160,5 @@
       - v0.3.0 because this was the only real implementation stopper for a series of projects reaching their intended purpose. LF. 
 
 *Current version of the ChangeLog is powered by OpenAI, ChatGPT-4*
+
+*Current version of the ChangeLog is powered by OpenAI, ChatGPT, and more.*
